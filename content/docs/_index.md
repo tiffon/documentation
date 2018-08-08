@@ -46,11 +46,11 @@ See [running a docker all in one image](getting-started#all-in-one-docker-image)
 
 ## Screenshots
 
-### Traces View
-[![Traces View](/img/traces-ss.png)](/img/traces-ss.png)
+### Search Results
+[![Search Results](/img/jaeger-search-results-ss.png)](/img/jaeger-search-results-ss.png)
 
 ### Trace Detail View
-[![Detail View](/img/trace-detail-ss.png)](/img/trace-detail-ss.png)
+[![Detail View](/img/jaeger-trace-detail-ss.png)](/img/jaeger-trace-detail-ss.png)
 
 ## Related links
 - [Evolving Distributed tracing At Uber Engineering](https://eng.uber.com/distributed-tracing/)
